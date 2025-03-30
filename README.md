@@ -10,9 +10,9 @@ This project focuses on **Bank Loan Analysis**, utilizing **PostgreSQL** for dat
 - **Other Tools**: Excel (for initial data handling), DAX  
 
 ## 📂 Project Structure  
-├── **SQL_Scripts** # Contains SQL queries used for analysis
-├── **PowerBI_Dashboard** # Power BI file with interactive dashboards
-├── **Datase** # Raw dataset
+-**SQL_Scripts**  Contains SQL queries used for analysis
+-**PowerBI_Dashboard**  Power BI file with interactive dashboards
+-**Datase**  Raw dataset
 
 
 ## 📊 Dashboards & Insights  
